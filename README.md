@@ -5,5 +5,5 @@
 para rodar esse projeta na sua maqiuna,por favor digite
 
 ´´´
-npm install react
+node app.js
 ´´´
